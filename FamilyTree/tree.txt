@@ -1,0 +1,293 @@
+Scott Swartz|???|Mackenzie Stutzman|Alpha Tau
+Aaron Cooper|???|Nick Tien|Alpha Psi
+Josh Altesman|???|Mike Tynan|Alpha Mu
+Dave Rifkin|???|Matt Friedman|???
+Zach Shulruff|???|Ian Lopez|Alpha Psi
+Chris Liodice|???|Jeremiah Baldeck|???
+Jeremiah Baldeck|???|Theodore Shepard|???
+Russ Haigis|???|Jamie Stockton|???
+Elliot Chun|???|Pat Wahl|Alpha Sigma
+Joe Adipietro|???|Jeff Sottolano|Alpha Kappa
+
+Erik Becker|Alpha|???|???
+James Benbow|Alpha|???|???
+Christopher Daly|Alpha|???|???
+Scott Davidson|Alpha|???|???
+Alvin Delgado|Alpha|???|???
+TJ Kennedy|Alpha|???|???
+William Leung|Alpha|???|???
+John McLaughlin|Alpha|???|???
+David Molyneux|Alpha|???|???
+Michael Morgioni|Alpha|Theodore Schultz|Epsilon
+John Parkins|Alpha|???|???
+Brian Recht|Alpha|???|???
+Jeffrey Rhodes|Alpha|???|???
+Tony Ruth|Alpha|???|???
+
+Michael Aller|Beta|???|???
+Marc Burns|Beta|???|???
+Kevin Cullen|Beta|???|???
+Dan Lausterer|Beta|???|???
+Tim Lease|Beta|???|???
+Gregg Martin|Beta|???|???
+David Moon|Beta|???|???
+Ronald Page|Beta|???|???
+Gregory Sambuchi|Beta|???|???
+Salvatore Sanfillipo|Beta|???|???
+Gil Shalit|Beta|Douglas Smith|Theta
+William Stewart|Beta|???|???
+Lee Vardakas|Beta|???|???
+Marc Weinberger|Beta|Mark Weinstock|Epsilon
+
+Alex Cox|Gamma|???|???
+Ron Pearsall|Gamma|???|???
+Scott Moody|Gamma|???|???
+
+Joseph DeRose|Epsilon|???|???
+David Getchonis|Epsilon|???|???
+Louis Hahn|Epsilon|???|???
+Theodore Schultz|Epsilon|???|???
+Joseph Smyder|Epsilon|Terry Hickey|Kappa
+Mark Weinstock|Epsilon|Brian Ketchel|Theta
+Mark Weinstock|Epsilon|John Ioveno|Iota
+
+Kevin McIntyre|Zeta|???|???
+Vinny Abato|Zeta|???|???
+Jon Getz|Zeta|???|???
+Jeff Hindin|Zeta|???|???
+
+Dan Albert|Eta|Dave Fladd|Mu
+Scott Gruskin|Eta|???|???
+Harry Padua|Eta|???|???
+Steve Sellstrom|Eta|???|???
+
+Douglas Smith|Theta|Tadd Hughes|???
+Phil Erwin|Theta|???|???
+Eric Fitzgerald|Theta|???|???
+Bob Grabarz|Theta|???|???
+Brian Ketchel|Theta|???|???
+Pat Korths|Theta|???|???
+Greg Mann|Theta|Keith Lamoutte|Mu
+Mike Morrison|Theta|???|???
+Rob Nolan|Theta|???|???
+Mike Park|Theta|???|???
+Dave Preuss|Theta|???|???
+Martin Sainsbury-Carter|Theta|???|???
+Nelson Sessier|Theta|???|???
+Mun Shieh|Theta|???|???
+Alan Smith|Theta|???|???
+Doug Smith|Theta|???|???
+James Gerlach|Theta|???|???
+
+John Ioveno|Iota|???|???
+
+Syed Ahmed Mustafa|Kappa|???|???
+Noel Cormany|Kappa|???|???
+Greg Hanley|Kappa|Michael Ciszek|Omicron
+Terry Hickey|Kappa|Bryant Lim|Xi
+Matt Watson|Kappa|???|???
+Andy Weir|Kappa|???|???
+
+Dave Fladd|Mu|Chris Colangelo|Pi
+Keith Lamoutte|Mu|Kevin Zacher|Omicron
+
+Rob Fine|Nu|???|???
+Adam Goldberg|Nu|???|???
+Mark Grindel|Nu|???|???
+Mark Ready|Nu|???|???
+John Wheeler|Nu|???|???
+Joel Wojciechowski|Nu|???|???
+
+David Jablonowski|Xi|Dave Rifkin|???
+Ryan Brown|Xi|???|???
+Andy Burchill|Xi|???|???
+Scott Fergus|Xi|???|???
+Erik Gayoso|Xi|???|???
+Bryant Lim|Xi|Doug Kasper|Pi
+Matt Marks|Xi|???|???
+Christopher Rizzo|Xi|???|???
+Dave Silva|Xi|???|???
+Brian Vanway|Xi|???|???
+Mike Waxman|Xi|???|???
+John Wortman|Xi|???|???
+
+Michael Accardi|Omicron|???|???
+Michael Ciszek|Omicron|Glenn Rutherford|Rho
+Michael Ciszek|Omicron|Steven Bubb|???
+Justin Figgins|Omicron|???|???
+Jeffrey Tescheke|Omicron|???|???
+David Zacher|Omicron|???|???
+Kevin Zacher|Omicron|???|???
+
+Doug Kasper|Pi|Todd Goldfarb|Sigma
+Chris Colangelo|Pi|Dan Held|Tau
+Rich Hoppe|Pi|???|???
+Ross Davis|Pi|???|???
+
+Todd Goldfarb|Sigma|Marc Mannella|Psi
+Mark Merkowitz|Sigma|???|???
+Tim Delahunt|Sigma|???|???
+Jon Mahlowitz|Sigma|???|???
+Chris O'Brien|Sigma|???|???
+Ken Rubinstein|Sigma|???|???
+Todd Safford|Sigma|???|???
+Kurt Schlueter|Sigma|???|???
+
+Dan Held|Tau|Andrew Gorrin|???
+
+Asher Epstein|Upsilon|???|???
+David Abrams|Upsilon|???|???
+Christopher Apolito|Upsilon|???|???
+Steve Bubb|Upsilon|???|???
+Chris Chamberlain|Upsilon|???|???
+Paul Frost|Upsilon|???|???
+Dimitris Kouretas|Upsilon|???|???
+Mark Szabo|Upsilon|???|???
+
+Marc Mannella|Psi|Jared Weiner|Alpha Delta
+Chi An|Psi|???|???
+Ryall Caroll|Psi|???|???
+Jeremy Cooper|Psi|???|???
+Sean Cornell|Psi|???|???
+Larry Fisher|Psi|???|???
+Jim Mantia|Psi|???|???
+Jamie Morse|Psi|???|???
+Mike Sacco|Psi|???|???
+Brian Stramer|Psi|???|???
+
+Kevin Apolito|Omega|Chris Liodice|???
+Scott Teitsch|Omega|???|???
+Joseph Timmons|Omega|???|???
+Teddy Wong|Omega|???|???
+
+Mike Casey|Alpha Alpha|???|???
+Brian Day|Alpha Alpha|???|???
+Dan Lok|Alpha Alpha|???|???
+Ryan Murdock|Alpha Alpha|???|???
+Sagi Shilo|Alpha Alpha|???|???
+Dave Wertz|Alpha Alpha|???|???
+
+Jason Gutman|Alpha Gamma|???|???
+Peter Silverman|Alpha Gamma|???|???
+
+Jared Weiner|Alpha Delta|Jason Pisco|Alpha Kappa
+John Boyle|Alpha Delta|Taylor Foy|???
+Jed Coiteux|Alpha Delta|???|???
+Jawwad Khan|Alpha Delta|???|???
+Mike Layden|Alpha Delta|???|???
+Chris Liodice|Alpha Delta|???|???
+Samir Rao|Alpha Delta|John McMurdy|Alpha Iota
+Mike Tuteur|Alpha Delta|???|???
+
+Jesse Baker|Alpha Eta|???|???
+Mike Kaplan|Alpha Eta|???|???
+
+Joe Hamway|Alpha Iota|Daniel McLaughlin|Alpha Mu
+John McMurdy|Alpha Iota|???|???
+
+Jason Pisco|Alpha Kappa|Matt Venzin|Alpha Pi
+Jeff Sottolano|Alpha Kappa|Greg Stein|???
+
+Mike Tynan|Alpha Mu|Matthew Gros-Werter|Alpha Omicron
+Nick Vanderwerken|Alpha Mu|Scott Swartz|???
+Adam Brod|Alpha Mu|???|???
+William Etter|Alpha Mu|???|???
+Benjamin Kody|Alpha Mu|???|???
+Daniel McLaughlin|Alpha Mu|???|???
+Justin Yozawitz|Alpha Mu|???|???
+
+Matthew Gros-Werter|Alpha Omicron|Luke Costanza|Alpha Sigma
+
+Matt Venzin|Alpha Pi|Robert Bartlett|Alpha Tau
+Matt Venzin|Alpha Pi|Ed Miranti|Alpha Rho
+
+Ed Miranti|Alpha Rho|Andrew Green|Alpha Sigma
+
+Andrew Green|Alpha Sigma|Thomas Casella|Alpha Psi
+Bryce Allio|Alpha Sigma|Dan Carson|Disaffiliated
+Robert Banuski|Alpha Sigma|Sunil Kumar|Alpha Tau
+Hugh Bridgers|Alpha Sigma|???|???
+Luke Costanza|Alpha Sigma|???|???
+Andrew Green|Alpha Sigma|???|???
+Pat Wahl|Alpha Sigma|Zach Shulruff|???
+
+Mackenzie Stutzman|Alpha Tau|Aaron Cooper|???
+Robert Bartlett|Alpha Tau|Andrew Tufts|Alpha Upsilon
+Sunil Kumar|Alpha Tau|???|???
+Colin O'Banion|Alpha Tau|???|???
+Eric Swanson|Alpha Tau|???|???
+
+Andrew Tufts|Alpha Upsilon|Aaron Pollack|Alpha Chi
+
+Aaron Pollack|Alpha Chi|Alexander Pratt|Alpha Psi
+
+Thomas Casella|Alpha Psi|Steven Solowsky|Beta Alpha
+Nick Tien|Alpha Psi|Cameron Roy|Disaffiliated
+Nick Tien|Alpha Psi|Edy Vasquez|Beta Delta
+Alexander Pratt|Alpha Psi|Josh Whitney|Beta Gamma
+Alexander Pratt|Alpha Psi|Eric Cyffka|Beta Alpha
+Christopher Fleshman|Alpha Psi|Nickolas Halleran|Beta Delta
+Christopher Fleshman|Alpha Psi|Mark Logan|Beta Gamma
+
+Steven Solowsky|Beta Alpha|Val Pyon|Beta Gamma
+Steven Solowsky|Beta Alpha|Jon Slotkin|Beta Delta
+Eric Cyffka|Beta Alpha|Maclain Christie|Beta Gamma
+Eric Cyffka|Beta Alpha|Chris Miller|Beta Delta
+
+Cameron Roy|Disaffiliated|Andrew Nocka|Beta Delta
+Cameron Roy|Disaffiliated|Nick Benjamin|Beta Epsilon
+Val Pyon|Beta Gamma|Moonsuk Kim|Beta Delta
+Josh Whitney|Beta Gamma|Ciaran Downey|Beta Delta
+Maclain Christie|Beta Gamma|Alex Feiszli|Beta Delta
+Mark Logan|Beta Gamma|Ruka Murugan|Beta Delta
+Mark Logan|Beta Gamma|Seamus McLaughlin|Beta Theta
+
+Andrew Nocka|Beta Delta|Vedant Ahluwalia|Beta Epsilon
+Andrew Nocka|Beta Delta|Chris Omicinski|Beta Theta
+Edy Vasquez|Beta Delta|Peter Choi|Beta Zeta
+Moonsuk Kim|Beta Delta|Robert Reitmeijer|Beta Zeta
+Jon Slotkin|Beta Delta|Arthur Dashan|Beta Zeta
+Ciaran Downey|Beta Delta|Brian Grip|Beta Zeta
+Ciaran Downey|Beta Delta|Erik Page|Beta Theta
+Alex Feiszli|Beta Delta|Hap Willis|Beta Epsilon
+Ruka Murugan|Beta Delta|Gerard Markham|Beta Zeta
+Chris Miller|Beta Delta|Paul Park|Beta Zeta
+Ruka Murugan|Beta Delta|Steven Torrisi|Beta Theta
+Ruka Murugan|Beta Delta|Jordan Teich|Beta Iota
+
+Vedant Ahluwalia|Beta Epsilon|Tyler Ward|Beta Eta
+Nick Benjamin|Beta Epsilon|Julian Olbinski|Beta Theta
+Nick Benjamin|Beta Epsilon|Brandon Newton|Beta Eta
+Hap Willis|Beta Epsilon|Enrique Reyes|Beta Zeta
+Hap Willis|Beta Epsilon|Anthony Salazar|Beta Theta
+
+Peter Choi|Beta Zeta|Chris Bohn|Beta Theta
+Robert Reitmeijer|Beta Zeta|Chaz Sumner|Beta Theta
+Arthur Dashan|Beta Zeta|Tarif Homsi|Beta Iota
+Brian Grip|Beta Zeta|Connor Williams|Beta Theta
+Enrique Reyes|Beta Zeta|Gabe Sadowsky|Beta Theta
+Gerard Markham|Beta Zeta|Andy Kruse|Beta Theta
+
+Tyler Ward|Beta Eta|Akil Bhagat|Beta Theta
+Brandon Newton|Beta Eta|Dan O'Brien|Beta Theta
+
+Akil Bhagat|Beta Theta|Feroz Rauf|Beta Kappa
+Chris Omicinski|Beta Theta|Ayush Singh|Beta Iota
+Julian Olbinski|Beta Theta|Alex Montes|Beta Kappa
+Dan O'Brien|Beta Theta|Sam Polk|Beta Kappa
+Chris Bohn|Beta Theta|Noah Woolfolk|Beta Iota
+Chaz Sumner|Beta Theta|Nate Potrepka|Beta Kappa
+Connor Williams|Beta Theta|Sean Ponzo|Beta Kappa
+Erik Page|Beta Theta|James Melton|Beta Kappa
+Gabe Sadowsky|Beta Theta|Clayton Brooks|Beta Kappa
+Anthony Salazar|Beta Theta|Jim Weitzel|Beta Iota
+Andy Kruse|Beta Theta|Nelson Huang|Beta Kappa
+Seamus McLaughlin|Beta Theta|Cole Oppedisano|Beta Iota
+Seamus McLaughlin|Beta Theta|Peter Snell|Beta Kappa
+
+Ayush Singh|Beta Iota|Eric Cheng|Beta Kappa
+Tarif Homsi|Beta Iota|Seth Schober|Beta Kappa
+Jim Weitzel|Beta Iota|David Weissman|Beta Kappa
+Jordan Teich|Beta Iota|Felix Yang|Beta Kappa
+
+Dan Carson|Disaffiliated|Christopher Fleshman|Alpha Psi
